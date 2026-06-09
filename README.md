@@ -18,19 +18,7 @@ NumPy functions are used to perform these calculations efficiently.
 * Python 3.x
 * NumPy Library
 
-## Employee Data Structure
 
-The employee data is stored as a list of lists.
-
-''' python
-employees = [
-    ["Omkar", "omkar@gmail.com", 80000],
-    ["Parth", "parth@gmail.com", 60000],
-    ["Ram", "ram@gmail.com", 55000],
-    ["Rahul", "rahul@gmail.com", 70000],
-    ["Madhav", "madhav@gmail.com", 45000]
-]
-''' 
 ### Fields
 
 | Index | Description     |
